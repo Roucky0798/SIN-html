@@ -11,7 +11,6 @@
 /* Eléments principaux de la page */
 body
 {
-    background: url('parquet.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
 }
@@ -55,6 +54,8 @@ header h2
     font-size: 1.1em;
     margin-top: 0px;
     font-weight: normal;
+	text-align: left;
+	color:black ;
 }
 	
 /* Navigation */
